@@ -1,0 +1,1 @@
+External libraries such as MySQL Connector/J

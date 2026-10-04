@@ -1,0 +1,17 @@
+====================================
+       HOTEL BOOKING RECEIPT
+====================================
+
+Booking ID : BK20261004141311
+Guest Name : sandhya
+Phone      : 7042358354
+Room       : 101
+Category   : Standard
+Check-in   : 2026-10-04
+Check-out  : 2026-10-05
+Amount     : Rs.2000.0
+Payment    : UPI
+Transaction: TXN202610041413118FAC
+Status     : Confirmed
+
+====================================

@@ -1,0 +1,1 @@
+Generated booking receipt files

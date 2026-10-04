@@ -1,0 +1,1 @@
+Model classes: Room, Customer, Booking, Payment
